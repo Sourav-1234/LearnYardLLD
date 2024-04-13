@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     #Mro -defines in the method clears all the doubt regarding the Diamond Problem
     # It is determjned by the C3 linearlisation algorithm 
-#     Python's Guido van Rossum summarizes C3 superclass linearization thus:[11]
+#     Python's Guido van Rossum summarizes C3 superclass linearisation thus:[11]
 
 # Basically, the idea behind C3 is that if you write down all of the ordering rules imposed by inheritance relationships in a complex class hierarchy, the algorithm will determine a monotonic ordering of the classes that satisfies all of them. 
 # If such an ordering can not be determined, the algorithm will fail.
